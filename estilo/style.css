@@ -5,11 +5,11 @@
 
 @font-face {
     font-family: 'Android';
-    src: url('/Desafio010/fontes/idroid.otf') format('opentype');
+    src: url('/fontes/idroid.otf') format('opentype');
     font-weight: normal;
 }
 
-:root{
+:root {
     --cor0:#c5ebd6;
     --cor1:#83e1ad;
     --cor2:#3ddc84;
@@ -22,10 +22,10 @@
     --fonte-android: 'Android', 'cursive';
  }
 
-*{
+* {
     margin: 0px;
     padding: 0px;
-}
+  }
 
 
 
